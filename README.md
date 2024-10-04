@@ -4,4 +4,5 @@ Try React
 
 ## tl;dr
 
+    pnpm install
     pnpm start

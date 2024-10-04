@@ -4,4 +4,4 @@ Try React
 
 ## tl;dr
 
-    yarn start
+    pnpm start

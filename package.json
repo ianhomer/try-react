@@ -8,13 +8,13 @@
     "@testing-library/user-event": "^14.6.1",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
-    "web-vitals": "^4.2.4"
+    "web-vitals": "^5.0.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.26.0",
     "eslint": "^9.26.0",
     "eslint-plugin-react": "^7.37.5",
-    "globals": "^16.0.0",
+    "globals": "^16.1.0",
     "react-scripts": "^5.0.1"
   },
   "scripts": {

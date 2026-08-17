@@ -5,16 +5,16 @@
   "dependencies": {
     "@testing-library/jest-dom": "^7.0.1",
     "@testing-library/react": "^16.3.2",
-    "@testing-library/user-event": "^14.6.3",
+    "@testing-library/user-event": "^14.6.4",
     "react": "^19.2.8",
     "react-dom": "^19.2.8",
-    "web-vitals": "^6.1.0"
+    "web-vitals": "^6.1.1"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
     "eslint": "^10.8.1",
     "eslint-plugin-react": "^7.37.5",
-    "globals": "^17.9.0",
+    "globals": "^17.11.0",
     "react-scripts": "^5.0.1"
   },
   "scripts": {
